@@ -1,0 +1,95 @@
+body {
+    font: 10pt/120% Verdana;
+    background-color: white !important;
+    background-image: none !important;
+    color: black;
+}
+
+a {
+    color: #006699;
+}
+
+h1 {
+    font: 12pt/120% Arial;
+    font-weight: bold;
+}
+
+h2 {
+    font: 12pt/120% Arial;
+    font-weight: bold;
+}
+
+h3 {
+    font: 12pt/120% Arial;
+    font-weight: bold;
+}
+
+h4 {
+    font: 12pt/120% Arial;
+    font-weight: bold;
+}
+
+#container {
+    border: none;
+}
+
+#horizontale_navigation ul {
+    display: none;
+}
+
+#kopfzeile_text {
+    position: relative;
+    top: 14pt;
+    font-weight: bold;
+    font-family: Georgia;
+    width: 100%;
+    font-size: 15pt;
+}
+
+#funktionsbox {
+    display: none;
+}
+
+#spalte_links {
+    display: none;
+}
+
+#breadcrumb_white {
+    margin-top: 40pt;
+    font-size: 9pt !important;
+    clear: both;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+}
+
+#kopfzeile_unilogo_print {
+    float: right;
+}
+
+#spalte_mitte {
+    font: 11pt/120% Arial;
+}
+
+#content_rand {
+    font: 11pt/120% Arial;
+    margin-top: 20pt;
+}
+
+#adressbox {
+    display: none;
+    width: 250pt;
+    font-size: 10pt;
+    font-family: Arial;
+}
+
+#fusszeile {
+    display: none;
+}
+/* nach dem Verlangen von Thomas Leitner (s. Ticket #513488) auskommentiert
+table {
+  display:block;
+}
+*/
+

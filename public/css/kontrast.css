@@ -1,0 +1,105 @@
+
+
+.standardss {
+    display:inline !important;
+}
+
+.kontrastss {
+    display:none !important;
+}
+
+
+body {
+    background-color:#ffffff;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color:#000000 !important;
+    background: none !important;
+}
+
+#col1 {
+    background-color: #eeeeee !important;
+}
+
+
+#col2 {
+    background-color: #eeeeee !important;
+}
+
+
+#col3 {
+
+    border-right: solid 200px #eeeeee !important;
+    border-left: solid 200px #eeeeee !important;
+}
+
+#container, #adressbox {
+    border-color: #000000 !important;
+}
+
+#navigation {
+    border-right: 1px solid;
+    border-top: 1px solid;
+}
+
+#navigation ul {
+    background-color: #F2F2F2 !important;
+    color: #000000 !important;
+}
+
+#navigation li a:hover {
+    background-color: #d1d1d1 !important;
+    color: #000 !important;
+}
+
+#content, #content_breit {
+    background-image: none;
+}
+
+#spalte_mitte a {
+    text-decoration: underline !important;
+}
+
+#funktionsbox {
+    background-color: #F2F2F2 !important;
+    color: #000000 !important;
+    border: 1px solid;
+}
+
+#nav_main {
+    background-color:#e4e4e4 !important;
+    background-image:none;
+}
+
+#fusszeile {
+    background-color:#ffffff;
+    border-top: 1px solid #000000;
+    padding: 15px 10px 15px 215px;
+}
+
+#fusszeile A {
+    color:#000000 !important;
+}
+
+#fusszeile_text {
+    color:#000000 !important;
+}
+
+
+#level1 LI  A {
+    border-bottom: solid 1px #000;
+    color: #000000;
+}
+
+#level1 LI.act {
+    border-bottom: solid 1px #000;
+    background-color: #D1D1D1;
+}
+
+
+
+
+
+
